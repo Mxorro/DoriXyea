@@ -1,6 +1,6 @@
 
 # DoriXyea – TCP Connect Flood Demo (GUI)
-
+My first project DoriXyea 1.0
 Educational TCP half-open / full-connect flood tool written in Go with Fyne GUI.
 
 **Purpose:**  
@@ -20,12 +20,5 @@ Demonstration of how many simultaneous TCP connections a single machine can open
 - Fyne GUI toolkit (fyne.io)
 - net.DialTimeout for connections
 
-**Disclaimer:**
-This tool can consume significant network and CPU resources.  
-Use only on hardware/networks you own or have written permission to test.  
-Any illegal use is your responsibility.
-
 Compiled binary for Windows x64 (no dependencies).
-Source code available in this repo.
-
 Have fun responsibly.
