@@ -6,8 +6,6 @@ Educational TCP half-open / full-connect flood tool written in Go with Fyne GUI.
 **Purpose:**  
 Demonstration of how many simultaneous TCP connections a single machine can open and how it affects target systems (e.g. local router, test server).  
 
-**NOT for malicious use** – only for learning networking, stress-testing own infrastructure, or CTF/red-team exercises with permission.
-
 **Capabilities:**
 - Target: any IP/host + port (TCP)
 - Threads: adjustable 100–5000
